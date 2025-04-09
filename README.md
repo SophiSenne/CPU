@@ -2,7 +2,7 @@
 
 ## CPU
 
-### [Vídeo com a explicação do funcionamento.]()
+### [Vídeo com a explicação do funcionamento.](https://drive.google.com/file/d/1uZD9pwe5EbWQOKrC39uehs96r81KcLnn/view?usp=sharing)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Para esta atividade, foi desenvolvida uma CPU simples utilizando a ferramenta [Digital](https://github.com/hneemann/Digital), com o objetivo de compreender e aplicar conceitos fundamentais de arquitetura de computadores. O projeto contempla os principais componentes de uma CPU, como a Unidade Lógica e Aritmética (ALU), registradores e memória. 
 
@@ -14,7 +14,7 @@
 
 #### Vídeo
 
-&nbsp;&nbsp;&nbsp;&nbsp;O vídeo disponível no [link]() contém a demonstração do funcionamento da CPU e uma explicação de como ela foi elaborada.
+&nbsp;&nbsp;&nbsp;&nbsp;O vídeo disponível no [link](https://drive.google.com/file/d/1uZD9pwe5EbWQOKrC39uehs96r81KcLnn/view?usp=sharing) contém a demonstração do funcionamento da CPU e uma explicação de como ela foi elaborada.
 
 #### Arquivos
 
